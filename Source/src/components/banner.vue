@@ -39,8 +39,8 @@
 
             <div class="mt-8 flex flex-wrap gap-4 ">
               <a
-                href="#"
-                class="block w-full rounded bg-rose-600 px-12 py-3 text-sm font-medium text-white shadow hover:bg-rose-700 focus:outline-none focus:ring active:bg-rose-500 sm:w-auto"
+                href="https://www.facebook.com/profile.php?id=100004474787150"
+                class="block w-full rounded bg-gray-600 px-12 py-3 text-sm font-medium text-white shadow hover:bg-gray-700 focus:outline-none focus:ring active:bg-rose-500 sm:w-auto"
               >
                 Liên hệ ngay
               </a>
@@ -76,7 +76,7 @@
 
             <div class="mt-8 flex flex-wrap gap-4 ">
               <a
-                href="#"
+                href="https://www.facebook.com/profile.php?id=100004474787150"
                 class="block w-full rounded bg-gray-600 px-12 py-3 text-sm font-medium text-white shadow hover:bg-gray-700 focus:outline-none focus:ring active:bg-gray-500 sm:w-auto"
               >
                 Liên hệ ngay

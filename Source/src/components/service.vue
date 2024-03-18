@@ -4,7 +4,7 @@
     <section
       class="overflow-hidden bg-gray-50 sm:grid sm:grid-cols-2 sm:items-center"
     >
-      <div class="p-8 md:p-12 lg:px-16 lg:py-24">
+      <div class="p-8 md:p-16 lg:px-16 lg:py-24 md:m-8">
         <div
           class="mx-auto max-w-xl text-center ltr:sm:text-left rtl:sm:text-right"
         >

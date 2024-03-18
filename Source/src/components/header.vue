@@ -18,7 +18,7 @@
         </div>
         <div :class="menuOpen ? 'block' : 'hidden'" class="flex flex-col md:flex-row md:block -mx-2">
           <router-link to="/" class="text-gray-800 rounded hover:bg-gray-900 hover:text-gray-100 hover:font-medium py-2 px-2 md:mx-2">Trang chủ</router-link>
-          <router-link to="/" class="text-gray-800 rounded hover:bg-gray-900 hover:text-gray-100 hover:font-medium py-2 px-2 md:mx-2">Liên hệ</router-link>
+          <a href="https://www.facebook.com/profile.php?id=100004474787150" class="text-gray-800 rounded hover:bg-gray-900 hover:text-gray-100 hover:font-medium py-2 px-2 md:mx-2">Liên hệ</a>
         </div>
       </div>
     </nav>
